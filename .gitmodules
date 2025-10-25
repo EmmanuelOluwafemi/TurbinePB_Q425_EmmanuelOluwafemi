@@ -1,0 +1,3 @@
+[submodule "gamify-food-intake-tracker"]
+	path = gamify-food-intake-tracker
+	url = git@github.com:EmmanuelOluwafemi/gamify-food-intake-tracker.git
