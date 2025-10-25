@@ -6,7 +6,7 @@ declare_id!("6mRtZPikcRHiQLwtuzHvgAQE27bmQjKJtPSb9TrqafiH");
 pub mod hello_solana {
     use super::*;
 
-    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
+    pub fn initialize(_ctx: Context<Initialize>) -> Result<()> {
         msg!("Hello Solana!");
         Ok(())
     }
