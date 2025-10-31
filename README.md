@@ -12,3 +12,5 @@ A repository to document my learning journey in Turbin 3. Everything I do and le
 | Rust Counting Program           | Simple counter project using anchor.                                                                                                        |
 | RNG Game                        | This contains 3 projects (Hello cargo, Number guessing game, and simple counting loop) all using cargo.                                     |
 | Gamify Food Intake Tracker      | A gamified Solana blockchain program that helps developers build consistent, healthy eating habits through rewards and streak tracking.     |
+| Spl Token                       | A Node.js project for creating and managing Solana SPL tokens — mint addresses, set metadata, mint tokens, and transfer SPL tokens.         |
+| Anchor Vault                    | An Anchor-based Solana program that manages a secure vault account — allowing users to deposit, withdraw, and store tokens safely on-chain. |
